@@ -7,7 +7,7 @@ So basicly I decided to create my own illuminator.
 I began with 3D project through creating electronic circuit and ending up on creating software.
 
 ## How it looks?
-![alt App look](https://raw.githubusercontent.com/DudaJakub/LightInspector/master/image.png)
+![Screenshot](image.png)
 
 ## How it works?
 Arduino needs to be connected to COM3 port.
